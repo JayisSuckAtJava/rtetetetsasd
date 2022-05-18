@@ -8,6 +8,6 @@ public class test {
 
 	@RequestMapping("/")
 	public void test() {
-		
+		System.out.println("dsd");
 	}
 }
